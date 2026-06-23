@@ -1,19 +1,69 @@
 <?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
 <VFPData>
-	<curtemp><idinsumo>001004</idinsumo><descripcion>CARNE DE RES</descripcion><idgruposi>001</idgruposi><unidad>KGS</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000016}</workspaceid></curtemp>
-	<curtemp><idinsumo>001005</idinsumo><descripcion>PAN ARTESANAL</descripcion><idgruposi>001</idgruposi><unidad>PZA</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000017}</workspaceid></curtemp>
-	<curtemp><idinsumo>001006</idinsumo><descripcion>ATÚN</descripcion><idgruposi>001</idgruposi><unidad>KGS</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000018}</workspaceid></curtemp>
-	<curtemp><idinsumo>001007</idinsumo><descripcion>MAYONESA</descripcion><idgruposi>001</idgruposi><unidad>LTS</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000019}</workspaceid></curtemp>
-	<curtemp><idinsumo>001008</idinsumo><descripcion>PAN TIPO BOLILLO</descripcion><idgruposi>001</idgruposi><unidad>PZA</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000020}</workspaceid></curtemp>
-	<curtemp><idinsumo>002009</idinsumo><descripcion>LECHUGA ROMANA</descripcion><idgruposi>002</idgruposi><unidad>PZA</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000021}</workspaceid></curtemp>
-	<curtemp><idinsumo>002010</idinsumo><descripcion>PEPINO</descripcion><idgruposi>002</idgruposi><unidad>PZA</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000022}</workspaceid></curtemp>
-	<curtemp><idinsumo>002011</idinsumo><descripcion>TOMATE SALADETTE</descripcion><idgruposi>002</idgruposi><unidad>KGS</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000023}</workspaceid></curtemp>
-	<curtemp><idinsumo>003003</idinsumo><descripcion>POLLO PECHUGA</descripcion><idgruposi>003</idgruposi><unidad>KGS</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000024}</workspaceid></curtemp>
-	<curtemp><idinsumo>003004</idinsumo><descripcion>TOCINO</descripcion><idgruposi>003</idgruposi><unidad>KGS</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000025}</workspaceid></curtemp>
-	<curtemp><idinsumo>004004</idinsumo><descripcion>FRIJOL REFRITO</descripcion><idgruposi>004</idgruposi><unidad>KGS</unidad><elaborado>true</elaborado><rendimientoelaborado>1.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000026}</workspaceid></curtemp>
-	<curtemp><idinsumo>004005</idinsumo><descripcion>CREMA ÁCIDA</descripcion><idgruposi>004</idgruposi><unidad>LTS</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000027}</workspaceid></curtemp>
-	<curtemp><idinsumo>004006</idinsumo><descripcion>MANTEQUILLA</descripcion><idgruposi>004</idgruposi><unidad>KGS</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000028}</workspaceid></curtemp>
-	<curtemp><idinsumo>005043</idinsumo><descripcion>TEQUILA BLANCO</descripcion><idgruposi>005</idgruposi><unidad>BOT</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000029}</workspaceid></curtemp>
-	<curtemp><idinsumo>005044</idinsumo><descripcion>JUGO DE TOMATE</descripcion><idgruposi>005</idgruposi><unidad>LTS</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000030}</workspaceid></curtemp>
-	<curtemp><idinsumo>006016</idinsumo><descripcion>AZÚCAR</descripcion><idgruposi>006</idgruposi><unidad>KGS</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000031}</workspaceid></curtemp>
+	<curtemp>
+		<idinsumo>001009</idinsumo>
+		<descripcion>PAN HAMBURGUESA</descripcion>
+		<idgruposi>001</idgruposi>
+		<unidad>PZA</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{70000001-0000-0000-0000-000000000040}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>001010</idinsumo>
+		<descripcion>CARNE MARINADA</descripcion>
+		<idgruposi>001</idgruposi>
+		<unidad>KGS</unidad>
+		<elaborado>true</elaborado>
+		<rendimientoelaborado>0.9500</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{70000001-0000-0000-0000-000000000041}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>003005</idinsumo>
+		<descripcion>JAMÓN</descripcion>
+		<idgruposi>003</idgruposi>
+		<unidad>KGS</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{70000001-0000-0000-0000-000000000042}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>003006</idinsumo>
+		<descripcion>PAPAS A LA FRANCESA</descripcion>
+		<idgruposi>003</idgruposi>
+		<unidad>KGS</unidad>
+		<elaborado>true</elaborado>
+		<rendimientoelaborado>0.9000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{70000001-0000-0000-0000-000000000043}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>004007</idinsumo>
+		<descripcion>QUESO AMARILLO</descripcion>
+		<idgruposi>004</idgruposi>
+		<unidad>KGS</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{70000001-0000-0000-0000-000000000044}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>004008</idinsumo>
+		<descripcion>PIÑA</descripcion>
+		<idgruposi>004</idgruposi>
+		<unidad>KGS</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{70000001-0000-0000-0000-000000000045}</workspaceid>
+	</curtemp>
 </VFPData>

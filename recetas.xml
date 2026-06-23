@@ -22,11 +22,5 @@
 			</xsd:complexType>
 		</xsd:element>
 	</xsd:schema>
-	<curtemp><idreceta>R04001</idreceta><descripcion>RECETA GUACAMOLE ARTESANAL</descripcion><idproducto>04001</idproducto><cantidad>1.0000</cantidad><unidad>PZA</unidad><merma>0.0500</merma><workspaceid>{90000001-0000-0000-0000-000000000001}</workspaceid></curtemp>
-	<curtemp><idreceta>R04002</idreceta><descripcion>RECETA NACHOS CON QUESO</descripcion><idproducto>04002</idproducto><cantidad>1.0000</cantidad><unidad>PZA</unidad><merma>0.0200</merma><workspaceid>{90000001-0000-0000-0000-000000000002}</workspaceid></curtemp>
-	<curtemp><idreceta>R03004</idreceta><descripcion>RECETA ARRACHERA A LA PARRILLA</descripcion><idproducto>03004</idproducto><cantidad>1.0000</cantidad><unidad>PZA</unidad><merma>0.1200</merma><workspaceid>{90000001-0000-0000-0000-000000000003}</workspaceid></curtemp>
-	<curtemp><idreceta>R03005</idreceta><descripcion>RECETA TACOS DE ARRACHERA</descripcion><idproducto>03005</idproducto><cantidad>1.0000</cantidad><unidad>PZA</unidad><merma>0.0800</merma><workspaceid>{90000001-0000-0000-0000-000000000004}</workspaceid></curtemp>
-	<curtemp><idreceta>R01003</idreceta><descripcion>RECETA MICHELADA CLÁSICA</descripcion><idproducto>01003</idproducto><cantidad>1.0000</cantidad><unidad>PZA</unidad><merma>0.0100</merma><workspaceid>{90000001-0000-0000-0000-000000000005}</workspaceid></curtemp>
-	<curtemp><idreceta>R01004</idreceta><descripcion>RECETA LIMONADA MINERAL</descripcion><idproducto>01004</idproducto><cantidad>1.0000</cantidad><unidad>PZA</unidad><merma>0.0100</merma><workspaceid>{90000001-0000-0000-0000-000000000006}</workspaceid></curtemp>
-	<curtemp><idreceta>R05001</idreceta><descripcion>RECETA PASTEL DE QUESO</descripcion><idproducto>05001</idproducto><cantidad>1.0000</cantidad><unidad>PZA</unidad><merma>0.0300</merma><workspaceid>{90000001-0000-0000-0000-000000000007}</workspaceid></curtemp>
+	<curtemp><idreceta>R04007</idreceta><descripcion>RECETA HAMBURGUESA HAWAIANA</descripcion><idproducto>04007</idproducto><cantidad>1.0000</cantidad><unidad>PZA</unidad><merma>0.0400</merma><workspaceid>{90000001-0000-0000-0000-000000000040}</workspaceid></curtemp>
 </VFPData>
