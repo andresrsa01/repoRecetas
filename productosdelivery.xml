@@ -1,38 +1,15 @@
 <?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
 <VFPData>
-	<xsd:schema id="VFPData" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-		<xsd:element name="VFPData" msdata:IsDataSet="true">
-			<xsd:complexType>
-				<xsd:choice maxOccurs="unbounded">
-					<xsd:element name="curtemp" minOccurs="0" maxOccurs="unbounded">
-						<xsd:complexType>
-							<xsd:sequence>
-								<xsd:element name="idproducto" minOccurs="0"/>
-								<xsd:element name="precio" minOccurs="0"/>
-								<xsd:element name="descripcion" minOccurs="0"/>
-								<xsd:element name="nombre" minOccurs="0"/>
-								<xsd:element name="idapp" type="xsd:int"/>
-								<xsd:element name="visiblemenu" type="xsd:boolean" minOccurs="0"/>
-							</xsd:sequence>
-						</xsd:complexType>
-					</xsd:element>
-				</xsd:choice>
-				<xsd:anyAttribute namespace="http://www.w3.org/XML/1998/namespace" processContents="lax"/>
-			</xsd:complexType>
-		</xsd:element>
-	</xsd:schema>
-	<curtemp><idproducto>04001</idproducto><precio>89.0000</precio><descripcion>GUACAMOLE ARTESANAL</descripcion><nombre>GUACAMOLE ARTESANAL</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
-	<curtemp><idproducto>04001</idproducto><precio>89.0000</precio><descripcion>GUACAMOLE ARTESANAL</descripcion><nombre>GUACAMOLE ARTESANAL</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
-	<curtemp><idproducto>04002</idproducto><precio>119.0000</precio><descripcion>NACHOS CON QUESO</descripcion><nombre>NACHOS CON QUESO</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
-	<curtemp><idproducto>04002</idproducto><precio>119.0000</precio><descripcion>NACHOS CON QUESO</descripcion><nombre>NACHOS CON QUESO</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
-	<curtemp><idproducto>03004</idproducto><precio>279.0000</precio><descripcion>ARRACHERA A LA PARRILLA</descripcion><nombre>ARRACHERA A LA PARRILLA</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
-	<curtemp><idproducto>03004</idproducto><precio>279.0000</precio><descripcion>ARRACHERA A LA PARRILLA</descripcion><nombre>ARRACHERA A LA PARRILLA</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
-	<curtemp><idproducto>03005</idproducto><precio>189.0000</precio><descripcion>TACOS DE ARRACHERA</descripcion><nombre>TACOS DE ARRACHERA</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
-	<curtemp><idproducto>03005</idproducto><precio>189.0000</precio><descripcion>TACOS DE ARRACHERA</descripcion><nombre>TACOS DE ARRACHERA</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
-	<curtemp><idproducto>01003</idproducto><precio>65.0000</precio><descripcion>MICHELADA CLÁSICA</descripcion><nombre>MICHELADA CLÁSICA</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
-	<curtemp><idproducto>01003</idproducto><precio>65.0000</precio><descripcion>MICHELADA CLÁSICA</descripcion><nombre>MICHELADA CLÁSICA</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
-	<curtemp><idproducto>01004</idproducto><precio>45.0000</precio><descripcion>LIMONADA MINERAL</descripcion><nombre>LIMONADA MINERAL</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
-	<curtemp><idproducto>01004</idproducto><precio>45.0000</precio><descripcion>LIMONADA MINERAL</descripcion><nombre>LIMONADA MINERAL</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
-	<curtemp><idproducto>05001</idproducto><precio>72.0000</precio><descripcion>PASTEL DE QUESO</descripcion><nombre>PASTEL DE QUESO</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
-	<curtemp><idproducto>05001</idproducto><precio>72.0000</precio><descripcion>PASTEL DE QUESO</descripcion><nombre>PASTEL DE QUESO</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>04003</idproducto><precio>58.0000</precio><descripcion>ENSALADA FRESCA</descripcion><nombre>ENSALADA FRESCA</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>04003</idproducto><precio>58.0000</precio><descripcion>ENSALADA FRESCA</descripcion><nombre>ENSALADA FRESCA</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>04004</idproducto><precio>76.0000</precio><descripcion>SÁNDWICH DE ATÚN</descripcion><nombre>SÁNDWICH DE ATÚN</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>04004</idproducto><precio>76.0000</precio><descripcion>SÁNDWICH DE ATÚN</descripcion><nombre>SÁNDWICH DE ATÚN</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>04005</idproducto><precio>92.0000</precio><descripcion>CLUB SÁNDWICH</descripcion><nombre>CLUB SÁNDWICH</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>04005</idproducto><precio>92.0000</precio><descripcion>CLUB SÁNDWICH</descripcion><nombre>CLUB SÁNDWICH</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>04006</idproducto><precio>68.0000</precio><descripcion>ESQUITES</descripcion><nombre>ESQUITES</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>04006</idproducto><precio>68.0000</precio><descripcion>ESQUITES</descripcion><nombre>ESQUITES</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>05002</idproducto><precio>85.0000</precio><descripcion>BROWNIE CON HELADO</descripcion><nombre>BROWNIE CON HELADO</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>05002</idproducto><precio>85.0000</precio><descripcion>BROWNIE CON HELADO</descripcion><nombre>BROWNIE CON HELADO</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>01005</idproducto><precio>59.0000</precio><descripcion>PIÑA COLADA</descripcion><nombre>PIÑA COLADA</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>01005</idproducto><precio>59.0000</precio><descripcion>PIÑA COLADA</descripcion><nombre>PIÑA COLADA</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
 </VFPData>
