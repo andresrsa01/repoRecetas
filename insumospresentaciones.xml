@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPData>
+	<xsd:schema id="VFPData" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="VFPData" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="curtemp" minOccurs="0" maxOccurs="unbounded">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="idinsumospresentaciones" minOccurs="0"/>
+								<xsd:element name="descripcion" minOccurs="0"/>
+								<xsd:element name="idinsumo" minOccurs="0"/>
+								<xsd:element name="idgruposi" minOccurs="0"/>
+								<xsd:element name="rendimiento" minOccurs="0"/>
+								<xsd:element name="unidad" minOccurs="0"/>
+								<xsd:element name="workspaceid" minOccurs="0"/>
+							</xsd:sequence>
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+				<xsd:anyAttribute namespace="http://www.w3.org/XML/1998/namespace" processContents="lax"/>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<curtemp><idinsumospresentaciones>002003</idinsumospresentaciones><descripcion>JITOMATE</descripcion><idinsumo>002003</idinsumo><idgruposi>002</idgruposi><rendimiento>1.0000</rendimiento><unidad>KGS</unidad><workspaceid>{80000001-0000-0000-0000-000000000001}</workspaceid></curtemp>
+	<curtemp><idinsumospresentaciones>002004</idinsumospresentaciones><descripcion>CEBOLLA BLANCA</descripcion><idinsumo>002004</idinsumo><idgruposi>002</idgruposi><rendimiento>1.0000</rendimiento><unidad>KGS</unidad><workspaceid>{80000001-0000-0000-0000-000000000002}</workspaceid></curtemp>
+	<curtemp><idinsumospresentaciones>002005</idinsumospresentaciones><descripcion>CILANTRO</descripcion><idinsumo>002005</idinsumo><idgruposi>002</idgruposi><rendimiento>1.0000</rendimiento><unidad>MANOJO</unidad><workspaceid>{80000001-0000-0000-0000-000000000003}</workspaceid></curtemp>
+	<curtemp><idinsumospresentaciones>002006</idinsumospresentaciones><descripcion>AGUACATE</descripcion><idinsumo>002006</idinsumo><idgruposi>002</idgruposi><rendimiento>1.0000</rendimiento><unidad>PZA</unidad><workspaceid>{80000001-0000-0000-0000-000000000004}</workspaceid></curtemp>
+	<curtemp><idinsumospresentaciones>002007</idinsumospresentaciones><descripcion>TORTILLA DE MAÍZ</descripcion><idinsumo>002007</idinsumo><idgruposi>002</idgruposi><rendimiento>1.0000</rendimiento><unidad>PZA</unidad><workspaceid>{80000001-0000-0000-0000-000000000005}</workspaceid></curtemp>
+	<curtemp><idinsumospresentaciones>002008</idinsumospresentaciones><descripcion>TOTOPOS</descripcion><idinsumo>002008</idinsumo><idgruposi>002</idgruposi><rendimiento>1.0000</rendimiento><unidad>KGS</unidad><workspaceid>{80000001-0000-0000-0000-000000000006}</workspaceid></curtemp>
+	<curtemp><idinsumospresentaciones>004002</idinsumospresentaciones><descripcion>QUESO CHEDDAR</descripcion><idinsumo>004002</idinsumo><idgruposi>004</idgruposi><rendimiento>1.0000</rendimiento><unidad>KGS</unidad><workspaceid>{80000001-0000-0000-0000-000000000007}</workspaceid></curtemp>
+	<curtemp><idinsumospresentaciones>004003</idinsumospresentaciones><descripcion>JALAPEÑOS</descripcion><idinsumo>004003</idinsumo><idgruposi>004</idgruposi><rendimiento>1.0000</rendimiento><unidad>KGS</unidad><workspaceid>{80000001-0000-0000-0000-000000000008}</workspaceid></curtemp>
+	<curtemp><idinsumospresentaciones>005041</idinsumospresentaciones><descripcion>CERVEZA OSCURA</descripcion><idinsumo>005041</idinsumo><idgruposi>005</idgruposi><rendimiento>1.0000</rendimiento><unidad>BOT</unidad><workspaceid>{80000001-0000-0000-0000-000000000009}</workspaceid></curtemp>
+	<curtemp><idinsumospresentaciones>005042</idinsumospresentaciones><descripcion>AGUA MINERAL</descripcion><idinsumo>005042</idinsumo><idgruposi>005</idgruposi><rendimiento>1.0000</rendimiento><unidad>BOT</unidad><workspaceid>{80000001-0000-0000-0000-000000000010}</workspaceid></curtemp>
+	<curtemp><idinsumospresentaciones>006011</idinsumospresentaciones><descripcion>LIMÓN</descripcion><idinsumo>006011</idinsumo><idgruposi>006</idgruposi><rendimiento>1.0000</rendimiento><unidad>PZA</unidad><workspaceid>{80000001-0000-0000-0000-000000000011}</workspaceid></curtemp>
+	<curtemp><idinsumospresentaciones>006012</idinsumospresentaciones><descripcion>SAL DE GRANO</descripcion><idinsumo>006012</idinsumo><idgruposi>006</idgruposi><rendimiento>1.0000</rendimiento><unidad>KGS</unidad><workspaceid>{80000001-0000-0000-0000-000000000012}</workspaceid></curtemp>
+	<curtemp><idinsumospresentaciones>006013</idinsumospresentaciones><descripcion>ACEITE VEGETAL</descripcion><idinsumo>006013</idinsumo><idgruposi>006</idgruposi><rendimiento>1.0000</rendimiento><unidad>LTS</unidad><workspaceid>{80000001-0000-0000-0000-000000000013}</workspaceid></curtemp>
+	<curtemp><idinsumospresentaciones>006014</idinsumospresentaciones><descripcion>SALSA INGLESA</descripcion><idinsumo>006014</idinsumo><idgruposi>006</idgruposi><rendimiento>1.0000</rendimiento><unidad>LTS</unidad><workspaceid>{80000001-0000-0000-0000-000000000014}</workspaceid></curtemp>
+	<curtemp><idinsumospresentaciones>006015</idinsumospresentaciones><descripcion>JUGO MAGGI</descripcion><idinsumo>006015</idinsumo><idgruposi>006</idgruposi><rendimiento>1.0000</rendimiento><unidad>LTS</unidad><workspaceid>{80000001-0000-0000-0000-000000000015}</workspaceid></curtemp>
+	<curtemp><idinsumospresentaciones>003001</idinsumospresentaciones><descripcion>ARRACHERA MARINADA</descripcion><idinsumo>001003</idinsumo><idgruposi>001</idgruposi><rendimiento>0.9200</rendimiento><unidad>KGS</unidad><workspaceid>{80000001-0000-0000-0000-000000000016}</workspaceid></curtemp>
+	<curtemp><idinsumospresentaciones>003002</idinsumospresentaciones><descripcion>ARRACHERA EN BARRA</descripcion><idinsumo>001002</idinsumo><idgruposi>001</idgruposi><rendimiento>0.8800</rendimiento><unidad>KGS</unidad><workspaceid>{80000001-0000-0000-0000-000000000017}</workspaceid></curtemp>
+</VFPData>
