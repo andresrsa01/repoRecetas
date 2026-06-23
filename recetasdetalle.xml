@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPData>
+	<xsd:schema id="VFPData" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="VFPData" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="curtemp" minOccurs="0" maxOccurs="unbounded">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="idreceta" minOccurs="0"/>
+								<xsd:element name="idinsumo" minOccurs="0"/>
+								<xsd:element name="cantidad" minOccurs="0"/>
+								<xsd:element name="unidad" minOccurs="0"/>
+								<xsd:element name="workspaceid" minOccurs="0"/>
+							</xsd:sequence>
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+				<xsd:anyAttribute namespace="http://www.w3.org/XML/1998/namespace" processContents="lax"/>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<curtemp><idreceta>R04001</idreceta><idinsumo>002006</idinsumo><cantidad>2.0000</cantidad><unidad>PZA</unidad><workspaceid>{91000001-0000-0000-0000-000000000001}</workspaceid></curtemp>
+	<curtemp><idreceta>R04001</idreceta><idinsumo>002003</idinsumo><cantidad>0.1200</cantidad><unidad>KGS</unidad><workspaceid>{91000001-0000-0000-0000-000000000002}</workspaceid></curtemp>
+	<curtemp><idreceta>R04001</idreceta><idinsumo>002004</idinsumo><cantidad>0.0500</cantidad><unidad>KGS</unidad><workspaceid>{91000001-0000-0000-0000-000000000003}</workspaceid></curtemp>
+	<curtemp><idreceta>R04001</idreceta><idinsumo>002005</idinsumo><cantidad>0.0200</cantidad><unidad>MANOJO</unidad><workspaceid>{91000001-0000-0000-0000-000000000004}</workspaceid></curtemp>
+	<curtemp><idreceta>R04001</idreceta><idinsumo>006011</idinsumo><cantidad>1.0000</cantidad><unidad>PZA</unidad><workspaceid>{91000001-0000-0000-0000-000000000005}</workspaceid></curtemp>
+	<curtemp><idreceta>R04002</idreceta><idinsumo>002008</idinsumo><cantidad>0.1500</cantidad><unidad>KGS</unidad><workspaceid>{91000001-0000-0000-0000-000000000006}</workspaceid></curtemp>
+	<curtemp><idreceta>R04002</idreceta><idinsumo>004002</idinsumo><cantidad>0.0800</cantidad><unidad>KGS</unidad><workspaceid>{91000001-0000-0000-0000-000000000007}</workspaceid></curtemp>
+	<curtemp><idreceta>R04002</idreceta><idinsumo>004003</idinsumo><cantidad>0.0200</cantidad><unidad>KGS</unidad><workspaceid>{91000001-0000-0000-0000-000000000008}</workspaceid></curtemp>
+	<curtemp><idreceta>R04002</idreceta><idinsumo>002005</idinsumo><cantidad>0.0100</cantidad><unidad>MANOJO</unidad><workspaceid>{91000001-0000-0000-0000-000000000009}</workspaceid></curtemp>
+	<curtemp><idreceta>R03004</idreceta><idinsumo>001002</idinsumo><cantidad>0.3500</cantidad><unidad>KGS</unidad><workspaceid>{91000001-0000-0000-0000-000000000010}</workspaceid></curtemp>
+	<curtemp><idreceta>R03004</idreceta><idinsumo>006012</idinsumo><cantidad>0.0050</cantidad><unidad>KGS</unidad><workspaceid>{91000001-0000-0000-0000-000000000011}</workspaceid></curtemp>
+	<curtemp><idreceta>R03004</idreceta><idinsumo>006013</idinsumo><cantidad>0.0100</cantidad><unidad>LTS</unidad><workspaceid>{91000001-0000-0000-0000-000000000012}</workspaceid></curtemp>
+	<curtemp><idreceta>R03004</idreceta><idinsumo>006014</idinsumo><cantidad>0.0030</cantidad><unidad>LTS</unidad><workspaceid>{91000001-0000-0000-0000-000000000013}</workspaceid></curtemp>
+	<curtemp><idreceta>R03005</idreceta><idinsumo>001002</idinsumo><cantidad>0.2200</cantidad><unidad>KGS</unidad><workspaceid>{91000001-0000-0000-0000-000000000014}</workspaceid></curtemp>
+	<curtemp><idreceta>R03005</idreceta><idinsumo>002007</idinsumo><cantidad>3.0000</cantidad><unidad>PZA</unidad><workspaceid>{91000001-0000-0000-0000-000000000015}</workspaceid></curtemp>
+	<curtemp><idreceta>R03005</idreceta><idinsumo>002004</idinsumo><cantidad>0.0200</cantidad><unidad>KGS</unidad><workspaceid>{91000001-0000-0000-0000-000000000016}</workspaceid></curtemp>
+	<curtemp><idreceta>R03005</idreceta><idinsumo>002005</idinsumo><cantidad>0.0100</cantidad><unidad>MANOJO</unidad><workspaceid>{91000001-0000-0000-0000-000000000017}</workspaceid></curtemp>
+	<curtemp><idreceta>R03005</idreceta><idinsumo>006011</idinsumo><cantidad>1.0000</cantidad><unidad>PZA</unidad><workspaceid>{91000001-0000-0000-0000-000000000018}</workspaceid></curtemp>
+	<curtemp><idreceta>R01003</idreceta><idinsumo>005041</idinsumo><cantidad>1.0000</cantidad><unidad>BOT</unidad><workspaceid>{91000001-0000-0000-0000-000000000019}</workspaceid></curtemp>
+	<curtemp><idreceta>R01003</idreceta><idinsumo>006011</idinsumo><cantidad>1.0000</cantidad><unidad>PZA</unidad><workspaceid>{91000001-0000-0000-0000-000000000020}</workspaceid></curtemp>
+	<curtemp><idreceta>R01003</idreceta><idinsumo>006012</idinsumo><cantidad>0.0020</cantidad><unidad>KGS</unidad><workspaceid>{91000001-0000-0000-0000-000000000021}</workspaceid></curtemp>
+	<curtemp><idreceta>R01003</idreceta><idinsumo>006014</idinsumo><cantidad>0.0050</cantidad><unidad>LTS</unidad><workspaceid>{91000001-0000-0000-0000-000000000022}</workspaceid></curtemp>
+	<curtemp><idreceta>R01003</idreceta><idinsumo>006015</idinsumo><cantidad>0.0050</cantidad><unidad>LTS</unidad><workspaceid>{91000001-0000-0000-0000-000000000023}</workspaceid></curtemp>
+	<curtemp><idreceta>R01004</idreceta><idinsumo>005042</idinsumo><cantidad>1.0000</cantidad><unidad>BOT</unidad><workspaceid>{91000001-0000-0000-0000-000000000024}</workspaceid></curtemp>
+	<curtemp><idreceta>R01004</idreceta><idinsumo>006011</idinsumo><cantidad>2.0000</cantidad><unidad>PZA</unidad><workspaceid>{91000001-0000-0000-0000-000000000025}</workspaceid></curtemp>
+	<curtemp><idreceta>R01004</idreceta><idinsumo>006012</idinsumo><cantidad>0.0015</cantidad><unidad>KGS</unidad><workspaceid>{91000001-0000-0000-0000-000000000026}</workspaceid></curtemp>
+	<curtemp><idreceta>R01004</idreceta><idinsumo>006013</idinsumo><cantidad>0.0040</cantidad><unidad>LTS</unidad><workspaceid>{91000001-0000-0000-0000-000000000027}</workspaceid></curtemp>
+	<curtemp><idreceta>R05001</idreceta><idinsumo>004002</idinsumo><cantidad>0.1200</cantidad><unidad>KGS</unidad><workspaceid>{91000001-0000-0000-0000-000000000028}</workspaceid></curtemp>
+	<curtemp><idreceta>R05001</idreceta><idinsumo>006013</idinsumo><cantidad>0.0060</cantidad><unidad>LTS</unidad><workspaceid>{91000001-0000-0000-0000-000000000029}</workspaceid></curtemp>
+	<curtemp><idreceta>R05001</idreceta><idinsumo>006011</idinsumo><cantidad>1.0000</cantidad><unidad>PZA</unidad><workspaceid>{91000001-0000-0000-0000-000000000030}</workspaceid></curtemp>
+</VFPData>
