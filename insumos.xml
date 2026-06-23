@@ -1,69 +1,36 @@
 <?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
 <VFPData>
 	<curtemp>
-		<idinsumo>001009</idinsumo>
-		<descripcion>PAN HAMBURGUESA</descripcion>
-		<idgruposi>001</idgruposi>
-		<unidad>PZA</unidad>
-		<elaborado>false</elaborado>
-		<rendimientoelaborado>0.0000</rendimientoelaborado>
-		<minutosalerta>0.0</minutosalerta>
-		<minutospreparacion>0.0</minutospreparacion>
-		<workspaceid>{70000001-0000-0000-0000-000000000040}</workspaceid>
-	</curtemp>
-	<curtemp>
-		<idinsumo>001010</idinsumo>
-		<descripcion>CARNE MARINADA</descripcion>
-		<idgruposi>001</idgruposi>
+		<idinsumo>004009</idinsumo>
+		<descripcion>GUACAMOLE ARTESANAL</descripcion>
+		<idgruposi>004</idgruposi>
 		<unidad>KGS</unidad>
 		<elaborado>true</elaborado>
 		<rendimientoelaborado>0.9500</rendimientoelaborado>
 		<minutosalerta>0.0</minutosalerta>
 		<minutospreparacion>0.0</minutospreparacion>
-		<workspaceid>{70000001-0000-0000-0000-000000000041}</workspaceid>
+		<workspaceid>{70000001-0000-0000-0000-000000000046}</workspaceid>
 	</curtemp>
 	<curtemp>
-		<idinsumo>003005</idinsumo>
-		<descripcion>JAMÓN</descripcion>
-		<idgruposi>003</idgruposi>
-		<unidad>KGS</unidad>
-		<elaborado>false</elaborado>
-		<rendimientoelaborado>0.0000</rendimientoelaborado>
-		<minutosalerta>0.0</minutosalerta>
-		<minutospreparacion>0.0</minutospreparacion>
-		<workspaceid>{70000001-0000-0000-0000-000000000042}</workspaceid>
-	</curtemp>
-	<curtemp>
-		<idinsumo>003006</idinsumo>
-		<descripcion>PAPAS A LA FRANCESA</descripcion>
-		<idgruposi>003</idgruposi>
+		<idinsumo>004010</idinsumo>
+		<descripcion>CEBOLLA CARAMELIZADA</descripcion>
+		<idgruposi>004</idgruposi>
 		<unidad>KGS</unidad>
 		<elaborado>true</elaborado>
 		<rendimientoelaborado>0.9000</rendimientoelaborado>
 		<minutosalerta>0.0</minutosalerta>
 		<minutospreparacion>0.0</minutospreparacion>
-		<workspaceid>{70000001-0000-0000-0000-000000000043}</workspaceid>
+		<workspaceid>{70000001-0000-0000-0000-000000000047}</workspaceid>
 	</curtemp>
 	<curtemp>
-		<idinsumo>004007</idinsumo>
-		<descripcion>QUESO AMARILLO</descripcion>
+		<idinsumo>004011</idinsumo>
+		<descripcion>HAMBURGUESA MEXICANA</descripcion>
 		<idgruposi>004</idgruposi>
-		<unidad>KGS</unidad>
+		<unidad>PZA</unidad>
 		<elaborado>false</elaborado>
 		<rendimientoelaborado>0.0000</rendimientoelaborado>
 		<minutosalerta>0.0</minutosalerta>
 		<minutospreparacion>0.0</minutospreparacion>
-		<workspaceid>{70000001-0000-0000-0000-000000000044}</workspaceid>
-	</curtemp>
-	<curtemp>
-		<idinsumo>004008</idinsumo>
-		<descripcion>PIÑA</descripcion>
-		<idgruposi>004</idgruposi>
-		<unidad>KGS</unidad>
-		<elaborado>false</elaborado>
-		<rendimientoelaborado>0.0000</rendimientoelaborado>
-		<minutosalerta>0.0</minutosalerta>
-		<minutospreparacion>0.0</minutospreparacion>
-		<workspaceid>{70000001-0000-0000-0000-000000000045}</workspaceid>
+		<workspaceid>{70000001-0000-0000-0000-000000000048}</workspaceid>
 	</curtemp>
 </VFPData>
