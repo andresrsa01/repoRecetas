@@ -1,36 +1,25 @@
 <?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
 <VFPData>
 	<curtemp>
-		<idinsumo>004009</idinsumo>
-		<descripcion>GUACAMOLE ARTESANAL</descripcion>
-		<idgruposi>004</idgruposi>
+		<idinsumo>001011</idinsumo>
+		<descripcion>ARRACHERA</descripcion>
+		<idgruposi>001</idgruposi>
 		<unidad>KGS</unidad>
-		<elaborado>true</elaborado>
-		<rendimientoelaborado>0.9500</rendimientoelaborado>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
 		<minutosalerta>0.0</minutosalerta>
 		<minutospreparacion>0.0</minutospreparacion>
-		<workspaceid>{70000001-0000-0000-0000-000000000046}</workspaceid>
+		<workspaceid>{70000001-0000-0000-0000-000000000061}</workspaceid>
 	</curtemp>
 	<curtemp>
-		<idinsumo>004010</idinsumo>
-		<descripcion>CEBOLLA CARAMELIZADA</descripcion>
-		<idgruposi>004</idgruposi>
-		<unidad>KGS</unidad>
-		<elaborado>true</elaborado>
-		<rendimientoelaborado>0.9000</rendimientoelaborado>
-		<minutosalerta>0.0</minutosalerta>
-		<minutospreparacion>0.0</minutospreparacion>
-		<workspaceid>{70000001-0000-0000-0000-000000000047}</workspaceid>
-	</curtemp>
-	<curtemp>
-		<idinsumo>004011</idinsumo>
-		<descripcion>HAMBURGUESA MEXICANA</descripcion>
+		<idinsumo>004012</idinsumo>
+		<descripcion>HAMBURGUESA ROCKACERO</descripcion>
 		<idgruposi>004</idgruposi>
 		<unidad>PZA</unidad>
 		<elaborado>false</elaborado>
 		<rendimientoelaborado>0.0000</rendimientoelaborado>
 		<minutosalerta>0.0</minutosalerta>
 		<minutospreparacion>0.0</minutospreparacion>
-		<workspaceid>{70000001-0000-0000-0000-000000000048}</workspaceid>
+		<workspaceid>{70000001-0000-0000-0000-000000000062}</workspaceid>
 	</curtemp>
 </VFPData>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
 <VFPData>
-	<curtemp><idproducto>04008</idproducto><precio>135.0000</precio><descripcion>HAMBURGUESA MEXICANA</descripcion><nombre>HAMBURGUESA MEXICANA</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
-	<curtemp><idproducto>04008</idproducto><precio>135.0000</precio><descripcion>HAMBURGUESA MEXICANA</descripcion><nombre>HAMBURGUESA MEXICANA</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>04009</idproducto><precio>145.0000</precio><descripcion>HAMBURGUESA ROCKACERO</descripcion><nombre>HAMBURGUESA ROCKACERO</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>04009</idproducto><precio>145.0000</precio><descripcion>HAMBURGUESA ROCKACERO</descripcion><nombre>HAMBURGUESA ROCKACERO</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
 </VFPData>

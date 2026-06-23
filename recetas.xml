@@ -22,5 +22,5 @@
 			</xsd:complexType>
 		</xsd:element>
 	</xsd:schema>
-	<curtemp><idreceta>R04008</idreceta><descripcion>RECETA HAMBURGUESA MEXICANA</descripcion><idproducto>04008</idproducto><cantidad>1.0000</cantidad><unidad>PZA</unidad><merma>0.0450</merma><workspaceid>{90000001-0000-0000-0000-000000000050}</workspaceid></curtemp>
+	<curtemp><idreceta>R04009</idreceta><descripcion>RECETA HAMBURGUESA ROCKACERO</descripcion><idproducto>04009</idproducto><cantidad>1.0000</cantidad><unidad>PZA</unidad><merma>0.0450</merma><workspaceid>{90000001-0000-0000-0000-000000000062}</workspaceid></curtemp>
 </VFPData>
