@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPData>
+	<xsd:schema id="VFPData" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="VFPData" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="curtemp" minOccurs="0" maxOccurs="unbounded">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="idgrupo">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:string">
+											<xsd:maxLength value="5"/>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+								<xsd:element name="descripcion" minOccurs="0">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:string">
+											<xsd:maxLength value="30"/>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+								<xsd:element name="clasificacion" minOccurs="0">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:decimal">
+											<xsd:totalDigits value="2"/>
+											<xsd:fractionDigits value="0"/>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+								<xsd:element name="prioridad" minOccurs="0">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:decimal">
+											<xsd:totalDigits value="5"/>
+											<xsd:fractionDigits value="0"/>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+								<xsd:element name="color" minOccurs="0">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:decimal">
+											<xsd:totalDigits value="11"/>
+											<xsd:fractionDigits value="0"/>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+								<xsd:element name="colorletra" minOccurs="0">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:decimal">
+											<xsd:totalDigits value="11"/>
+											<xsd:fractionDigits value="0"/>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+								<xsd:element name="prioridadimpresion" minOccurs="0">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:decimal">
+											<xsd:totalDigits value="5"/>
+											<xsd:fractionDigits value="0"/>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+								<xsd:element name="cambiacolorcuenta" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="colorcuenta" minOccurs="0">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:decimal">
+											<xsd:totalDigits value="11"/>
+											<xsd:fractionDigits value="0"/>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+								<xsd:element name="colorletracuenta" minOccurs="0">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:decimal">
+											<xsd:totalDigits value="11"/>
+											<xsd:fractionDigits value="0"/>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+								<xsd:element name="solicitaautorizacion" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="imagenmenuelectronico" minOccurs="0"/>
+								<xsd:element name="extmenu" minOccurs="0">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:string">
+											<xsd:maxLength value="5"/>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+								<xsd:element name="porcentajepropina" minOccurs="0">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:decimal">
+											<xsd:totalDigits value="6"/>
+											<xsd:fractionDigits value="2"/>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+							</xsd:sequence>
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+				<xsd:anyAttribute namespace="http://www.w3.org/XML/1998/namespace" processContents="lax"/>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<curtemp>
+		<idgrupo>01</idgrupo>
+		<descripcion>BEBIDAS PREPARADAS</descripcion>
+		<clasificacion>1</clasificacion>
+		<prioridad>0</prioridad>
+		<color>4235005</color>
+		<colorletra>0</colorletra>
+		<prioridadimpresion>0</prioridadimpresion>
+		<cambiacolorcuenta>false</cambiacolorcuenta>
+		<colorcuenta>13160660</colorcuenta>
+		<colorletracuenta>0</colorletracuenta>
+		<solicitaautorizacion>false</solicitaautorizacion>
+		<imagenmenuelectronico/>
+		<extmenu/>
+		<porcentajepropina>0.00</porcentajepropina>
+	</curtemp>
+	<curtemp>
+		<idgrupo>02</idgrupo>
+		<descripcion>CERVEZAS</descripcion>
+		<clasificacion>1</clasificacion>
+		<prioridad>0</prioridad>
+		<color>4235005</color>
+		<colorletra>0</colorletra>
+		<prioridadimpresion>0</prioridadimpresion>
+		<cambiacolorcuenta>false</cambiacolorcuenta>
+		<colorcuenta>13160660</colorcuenta>
+		<colorletracuenta>0</colorletracuenta>
+		<solicitaautorizacion>false</solicitaautorizacion>
+		<imagenmenuelectronico/>
+		<extmenu/>
+		<porcentajepropina>0.00</porcentajepropina>
+	</curtemp>
+	<curtemp>
+		<idgrupo>03</idgrupo>
+		<descripcion>CORTES Y CARNE</descripcion>
+		<clasificacion>2</clasificacion>
+		<prioridad>0</prioridad>
+		<color>4235005</color>
+		<colorletra>0</colorletra>
+		<prioridadimpresion>0</prioridadimpresion>
+		<cambiacolorcuenta>false</cambiacolorcuenta>
+		<colorcuenta>13160660</colorcuenta>
+		<colorletracuenta>0</colorletracuenta>
+		<solicitaautorizacion>false</solicitaautorizacion>
+		<imagenmenuelectronico/>
+		<extmenu/>
+		<porcentajepropina>0.00</porcentajepropina>
+	</curtemp>
+	<curtemp>
+		<idgrupo>04</idgrupo>
+		<descripcion>ENTRADAS</descripcion>
+		<clasificacion>2</clasificacion>
+		<prioridad>0</prioridad>
+		<color>4235005</color>
+		<colorletra>0</colorletra>
+		<prioridadimpresion>0</prioridadimpresion>
+		<cambiacolorcuenta>false</cambiacolorcuenta>
+		<colorcuenta>13160660</colorcuenta>
+		<colorletracuenta>0</colorletracuenta>
+		<solicitaautorizacion>false</solicitaautorizacion>
+		<imagenmenuelectronico/>
+		<extmenu/>
+		<porcentajepropina>0.00</porcentajepropina>
+	</curtemp>
+	<curtemp>
+		<idgrupo>05</idgrupo>
+		<descripcion>POSTRES</descripcion>
+		<clasificacion>2</clasificacion>
+		<prioridad>0</prioridad>
+		<color>4235005</color>
+		<colorletra>0</colorletra>
+		<prioridadimpresion>0</prioridadimpresion>
+		<cambiacolorcuenta>false</cambiacolorcuenta>
+		<colorcuenta>13160660</colorcuenta>
+		<colorletracuenta>0</colorletracuenta>
+		<solicitaautorizacion>false</solicitaautorizacion>
+		<imagenmenuelectronico/>
+		<extmenu/>
+		<porcentajepropina>0.00</porcentajepropina>
+	</curtemp>
+</VFPData>

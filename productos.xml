@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPData>
+	<xsd:schema id="VFPData" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="VFPData" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="curtemp" minOccurs="0" maxOccurs="unbounded">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="idproducto" minOccurs="0"/>
+								<xsd:element name="descripcion" minOccurs="0"/>
+								<xsd:element name="idgrupo" minOccurs="0"/>
+								<xsd:element name="nombrecorto" minOccurs="0"/>
+								<xsd:element name="plu" minOccurs="0"/>
+								<xsd:element name="imagen" minOccurs="0"/>
+								<xsd:element name="nofacturable" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="comentario" minOccurs="0"/>
+								<xsd:element name="usarcomedor" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="usardomicilio" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="usarrapido" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="usarcedis" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="idinsumospresentaciones" minOccurs="0"/>
+								<xsd:element name="imagenmenuelectronico" minOccurs="0"/>
+								<xsd:element name="descripcionmenuelectronico" minOccurs="0"/>
+								<xsd:element name="usarmenuelectronico" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="extmenu" minOccurs="0"/>
+								<xsd:element name="imagen_menu" minOccurs="0"/>
+								<xsd:element name="descripcion_detalle" minOccurs="0"/>
+								<xsd:element name="calorias" minOccurs="0"/>
+								<xsd:element name="visible_menu" type="xsd:boolean"/>
+								<xsd:element name="capturar_pendientes" type="xsd:boolean"/>
+								<xsd:element name="id_etiqueta" minOccurs="0"/>
+								<xsd:element name="id_etiqueta_descripcion" minOccurs="0"/>
+								<xsd:element name="idprodserv_sat" minOccurs="0"/>
+								<xsd:element name="usarvectorplus" type="xsd:boolean"/>
+								<xsd:element name="workspaceid" minOccurs="0"/>
+								<xsd:element name="imagenme_modified" type="xsd:boolean"/>
+								<xsd:element name="imagenbackoffice" minOccurs="0"/>
+								<xsd:element name="monitoreo" type="xsd:boolean"/>
+								<xsd:element name="prioridadimpresion" minOccurs="0"/>
+								<xsd:element name="visible_kiosko" type="xsd:boolean" minOccurs="0"/>
+							</xsd:sequence>
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+				<xsd:anyAttribute namespace="http://www.w3.org/XML/1998/namespace" processContents="lax"/>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+</VFPData>

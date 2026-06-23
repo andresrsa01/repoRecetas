@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPData>
+	<xsd:schema id="VFPData" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="VFPData" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="curtemp" minOccurs="0" maxOccurs="unbounded">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="idinsumo" minOccurs="0"/>
+								<xsd:element name="descripcion" minOccurs="0"/>
+								<xsd:element name="idgruposi" minOccurs="0"/>
+								<xsd:element name="unidad" minOccurs="0"/>
+								<xsd:element name="elaborado" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="rendimientoelaborado" minOccurs="0"/>
+								<xsd:element name="minutosalerta" minOccurs="0"/>
+								<xsd:element name="minutospreparacion" minOccurs="0"/>
+								<xsd:element name="workspaceid" minOccurs="0"/>
+							</xsd:sequence>
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+				<xsd:anyAttribute namespace="http://www.w3.org/XML/1998/namespace" processContents="lax"/>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<curtemp>
+		<idinsumo>001001</idinsumo>
+		<descripcion>CHISTORRA</descripcion>
+		<idgruposi>001</idgruposi>
+		<unidad>KGS</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{B9733F71-DB5A-464C-8885-BF4A41512169}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>001002</idinsumo>
+		<descripcion>ARRACHERA</descripcion>
+		<idgruposi>001</idgruposi>
+		<unidad>KGS</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{6EB716EB-3A66-469F-B663-2C72FE8FB541}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>001003</idinsumo>
+		<descripcion>ARRACHERA</descripcion>
+		<idgruposi>001</idgruposi>
+		<unidad>KGS</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{00024338-51F7-4A9D-A822-68ECA883D939}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>002001</idinsumo>
+		<descripcion>LECHUGA</descripcion>
+		<idgruposi>002</idgruposi>
+		<unidad>KGS</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{72115015-5877-4ECA-8004-C43B145770D1}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>002002</idinsumo>
+		<descripcion>LIMÓN</descripcion>
+		<idgruposi>002</idgruposi>
+		<unidad>PZA</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{33B6F673-0095-49DE-AEEB-C62234AB9DDF}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>004001</idinsumo>
+		<descripcion>QUESO AMARILLO</descripcion>
+		<idgruposi>004</idgruposi>
+		<unidad>KGS</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{A7B7567D-AAD8-46BC-988D-2C856618B56F}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>005001</idinsumo>
+		<descripcion>WHISKY JACK DANIELS</descripcion>
+		<idgruposi>005</idgruposi>
+		<unidad>OZ</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{8A52C613-EA1E-4A68-BA63-1D32DF039F9A}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>005002</idinsumo>
+		<descripcion>WHISKY BLACK &amp; WHITE</descripcion>
+		<idgruposi>005</idgruposi>
+		<unidad>OZ</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{4498F179-FD6D-433A-BFE4-3191912AB2D6}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>005003</idinsumo>
+		<descripcion>RON ZACAPA 23A GRAN RVA</descripcion>
+		<idgruposi>005</idgruposi>
+		<unidad>OZ</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{5C08F8F3-928F-49B0-9E41-9CEDC3CB114A}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>005004</idinsumo>
+		<descripcion>RON BACARDI BLANCO</descripcion>
+		<idgruposi>005</idgruposi>
+		<unidad>OZ</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{61003C36-DD4E-473B-944B-9EB5CB4C6157}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>005005</idinsumo>
+		<descripcion>RON BACARDI BLANCO 980ML</descripcion>
+		<idgruposi>005</idgruposi>
+		<unidad>OZ</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{5240C290-068D-4A04-91CB-0ABE26909775}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>005006</idinsumo>
+		<descripcion>RON MATUSALEM PLATINO</descripcion>
+		<idgruposi>005</idgruposi>
+		<unidad>OZ</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{7BF2DDCF-DD39-4A4A-A144-617AB477481D}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>005007</idinsumo>
+		<descripcion>RON MATUSALEM CLASICO</descripcion>
+		<idgruposi>005</idgruposi>
+		<unidad>OZ</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{FB0913AB-56C4-4E76-9242-3DCBFA34414B}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>005008</idinsumo>
+		<descripcion>RON MATUSALEM GRAN RESERVA 18 AÑOS</descripcion>
+		<idgruposi>005</idgruposi>
+		<unidad>OZ</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{5CD438CB-0CA7-499B-A230-E47F95EC3F91}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>005009</idinsumo>
+		<descripcion>GINEBRA HENDRICKS</descripcion>
+		<idgruposi>005</idgruposi>
+		<unidad>OZ</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{18098A5B-B50C-439B-82BB-A18D59272FCF}</workspaceid>
+	</curtemp>
+	<curtemp>
+		<idinsumo>005010</idinsumo>
+		<descripcion>TEQUILA DON JULIO 70 AÑEJO</descripcion>
+		<idgruposi>005</idgruposi>
+		<unidad>OZ</unidad>
+		<elaborado>false</elaborado>
+		<rendimientoelaborado>0.0000</rendimientoelaborado>
+		<minutosalerta>0.0</minutosalerta>
+		<minutospreparacion>0.0</minutospreparacion>
+		<workspaceid>{EDB850CD-F168-4B91-AC5E-15D806C46EA8}</workspaceid>
+	</curtemp>
+</VFPData>
