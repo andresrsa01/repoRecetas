@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPData>
+	<xsd:schema id="VFPData" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="VFPData" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="curtemp" minOccurs="0" maxOccurs="unbounded">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="idproducto" minOccurs="0"/>
+								<xsd:element name="idempresa" minOccurs="0"/>
+								<xsd:element name="precio" minOccurs="0"/>
+								<xsd:element name="impuesto1" minOccurs="0"/>
+								<xsd:element name="impuesto2" minOccurs="0"/>
+								<xsd:element name="impuesto3" minOccurs="0"/>
+								<xsd:element name="preciosinimpuestos" minOccurs="0"/>
+								<xsd:element name="bloqueado" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="precioabierto" minOccurs="0"/>
+								<xsd:element name="canjeablepuntos" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="preciopuntos" minOccurs="0"/>
+								<xsd:element name="puntoscanje" minOccurs="0"/>
+								<xsd:element name="puntosextras" minOccurs="0"/>
+								<xsd:element name="lunesinicio" minOccurs="0"/>
+								<xsd:element name="lunesfin" minOccurs="0"/>
+								<xsd:element name="preciolunes" minOccurs="0"/>
+								<xsd:element name="lunesdiasalida" minOccurs="0"/>
+								<xsd:element name="martesinicio" minOccurs="0"/>
+								<xsd:element name="martesfin" minOccurs="0"/>
+								<xsd:element name="preciomartes" minOccurs="0"/>
+								<xsd:element name="martesdiasalida" minOccurs="0"/>
+								<xsd:element name="miercolesinicio" minOccurs="0"/>
+								<xsd:element name="miercolesfin" minOccurs="0"/>
+								<xsd:element name="preciomiercoles" minOccurs="0"/>
+								<xsd:element name="miercolesdiasalida" minOccurs="0"/>
+								<xsd:element name="juevesinicio" minOccurs="0"/>
+								<xsd:element name="juevesfin" minOccurs="0"/>
+								<xsd:element name="preciojueves" minOccurs="0"/>
+								<xsd:element name="juevesdiasalida" minOccurs="0"/>
+								<xsd:element name="viernesinicio" minOccurs="0"/>
+								<xsd:element name="viernesfin" minOccurs="0"/>
+								<xsd:element name="precioviernes" minOccurs="0"/>
+								<xsd:element name="viernesdiasalida" minOccurs="0"/>
+								<xsd:element name="sabadoinicio" minOccurs="0"/>
+								<xsd:element name="sabadofin" minOccurs="0"/>
+								<xsd:element name="preciosabado" minOccurs="0"/>
+								<xsd:element name="sabadodiasalida" minOccurs="0"/>
+								<xsd:element name="domingoinicio" minOccurs="0"/>
+								<xsd:element name="domingofin" minOccurs="0"/>
+								<xsd:element name="preciodomingo" minOccurs="0"/>
+								<xsd:element name="domingodiasalida" minOccurs="0"/>
+								<xsd:element name="aplicalunes" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="aplicamartes" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="aplicamiercoles" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="aplicajueves" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="aplicaviernes" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="aplicasabado" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="aplicadomingo" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="excentoimpuestos" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="secuenciacompuesto" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="finalizarsecuenciacompuesto" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="heredarmonitormodificadores" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="comisionvendedor" minOccurs="0"/>
+								<xsd:element name="eliminarfiscal" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="enviarproduccionsimodificador" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="cargoadicional" minOccurs="0"/>
+								<xsd:element name="afectacomensales" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="comensalesafectados" minOccurs="0"/>
+								<xsd:element name="descargar" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="usarmultiplicadorprodcomp" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="rentabilidadcedis" minOccurs="0"/>
+								<xsd:element name="idarea" minOccurs="0"/>
+								<xsd:element name="permitirprodcompenmodif" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="politicapuntos" minOccurs="0"/>
+								<xsd:element name="favorito" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="idunidad" minOccurs="0"/>
+								<xsd:element name="ocultarmitades" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="dev_impuestoimporte3" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="impuestoimporte3" minOccurs="0"/>
+								<xsd:element name="usa_imagen_monitor" type="xsd:boolean" minOccurs="0"/>
+								<xsd:element name="rutaimagen" minOccurs="0"/>
+								<xsd:element name="comisionprecio" minOccurs="0"/>
+								<xsd:element name="usa_bascula" type="xsd:boolean" minOccurs="0"/>
+							</xsd:sequence>
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+				<xsd:anyAttribute namespace="http://www.w3.org/XML/1998/namespace" processContents="lax"/>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+</VFPData>
