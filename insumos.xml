@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
 <VFPData>
-	<curtemp>
-		<idinsumo>001011</idinsumo>
-		<descripcion>ARRACHERA</descripcion>
-		<idgruposi>001</idgruposi>
-		<unidad>KGS</unidad>
-		<elaborado>false</elaborado>
-		<rendimientoelaborado>0.0000</rendimientoelaborado>
-		<minutosalerta>0.0</minutosalerta>
-		<minutospreparacion>0.0</minutospreparacion>
-		<workspaceid>{70000001-0000-0000-0000-000000000061}</workspaceid>
-	</curtemp>
-	<curtemp>
-		<idinsumo>004012</idinsumo>
-		<descripcion>HAMBURGUESA ROCKACERO</descripcion>
-		<idgruposi>004</idgruposi>
-		<unidad>PZA</unidad>
-		<elaborado>false</elaborado>
-		<rendimientoelaborado>0.0000</rendimientoelaborado>
-		<minutosalerta>0.0</minutosalerta>
-		<minutospreparacion>0.0</minutospreparacion>
-		<workspaceid>{70000001-0000-0000-0000-000000000062}</workspaceid>
-	</curtemp>
+	<curtemp><idinsumo>001012</idinsumo><descripcion>SALCHICHA</descripcion><idgruposi>001</idgruposi><unidad>PZA</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000072}</workspaceid></curtemp>
+	<curtemp><idinsumo>001013</idinsumo><descripcion>PAN HOTDOG</descripcion><idgruposi>001</idgruposi><unidad>PZA</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000073}</workspaceid></curtemp>
+	<curtemp><idinsumo>002012</idinsumo><descripcion>CEBOLLA BLANCA PICADA</descripcion><idgruposi>002</idgruposi><unidad>KGS</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000074}</workspaceid></curtemp>
+	<curtemp><idinsumo>004013</idinsumo><descripcion>HOTDOG ROCKACERO</descripcion><idgruposi>004</idgruposi><unidad>PZA</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000075}</workspaceid></curtemp>
+	<curtemp><idinsumo>004014</idinsumo><descripcion>HOTDOG HAWAIANO</descripcion><idgruposi>004</idgruposi><unidad>PZA</unidad><elaborado>false</elaborado><rendimientoelaborado>0.0000</rendimientoelaborado><minutosalerta>0.0</minutosalerta><minutospreparacion>0.0</minutospreparacion><workspaceid>{70000001-0000-0000-0000-000000000076}</workspaceid></curtemp>
 </VFPData>

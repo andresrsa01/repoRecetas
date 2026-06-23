@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
 <VFPData>
-	<curtemp><idproducto>04009</idproducto><precio>145.0000</precio><descripcion>HAMBURGUESA ROCKACERO</descripcion><nombre>HAMBURGUESA ROCKACERO</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
-	<curtemp><idproducto>04009</idproducto><precio>145.0000</precio><descripcion>HAMBURGUESA ROCKACERO</descripcion><nombre>HAMBURGUESA ROCKACERO</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>04010</idproducto><precio>85.0000</precio><descripcion>HOTDOG ROCKACERO</descripcion><nombre>HOTDOG ROCKACERO</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>04010</idproducto><precio>85.0000</precio><descripcion>HOTDOG ROCKACERO</descripcion><nombre>HOTDOG ROCKACERO</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>04011</idproducto><precio>79.0000</precio><descripcion>HOTDOG HAWAIANO</descripcion><nombre>HOTDOG HAWAIANO</nombre><idapp>1</idapp><visiblemenu>true</visiblemenu></curtemp>
+	<curtemp><idproducto>04011</idproducto><precio>79.0000</precio><descripcion>HOTDOG HAWAIANO</descripcion><nombre>HOTDOG HAWAIANO</nombre><idapp>67</idapp><visiblemenu>true</visiblemenu></curtemp>
 </VFPData>
